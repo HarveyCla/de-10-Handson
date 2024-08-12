@@ -6,4 +6,4 @@
 [google](https://www.google.com)
 
 
-![resim] (./img/5.jpg);
+![Project Snapshot](./5.jpg);
